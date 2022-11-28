@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/react-jokes/static/css/main.6ee12e4e.css",
+    "main.js": "/github.io/react-jokes/static/js/main.90027a18.js",
+    "index.html": "/github.io/react-jokes/index.html",
+    "main.6ee12e4e.css.map": "/github.io/react-jokes/static/css/main.6ee12e4e.css.map",
+    "main.90027a18.js.map": "/github.io/react-jokes/static/js/main.90027a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee12e4e.css",
+    "static/js/main.90027a18.js"
+  ]
+}
